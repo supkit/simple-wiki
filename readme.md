@@ -45,8 +45,12 @@ server {
 
 ## 前端
 
-vue2 + elementUI
+- vue2 + elementUI
 
-https://github.com/supkit/simple-wiki-vue
+- 地址：https://github.com/supkit/simple-wiki-vue
 
-vue2 webpack 打包后，页面刷新404 问题 : http://chenshuo.net/page?id=11
+- vue2 webpack 打包后，页面刷新404 问题 : http://chenshuo.net/page?id=11
+
+## 数据库脚本
+
+database/*
