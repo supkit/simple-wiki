@@ -1,3 +1,5 @@
+![avatar](public/wiki.png)
+
 ## 使用前必看
 
 - 该项目比不完善，建议内部使用
