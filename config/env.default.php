@@ -5,11 +5,11 @@ return [
     'app_env' => 'local',
     'debug' => true,
     'error_type' => 'json',
-    'app_key' => 'cc6101b62c817b19ed9fdf7c02c7e879',
+    'app_key' => 'xxx',
     'timezone' => 'Asia/Shanghai',
 
     'db_host'     => '127.0.0.1',
     'db_username' => 'root',
-    'db_password' => 'chenshuo90909',
+    'db_password' => 'password',
     'db_database'  => 'document'
 ];
