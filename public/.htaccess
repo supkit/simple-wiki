@@ -1,0 +1,7 @@
+RewriteEngine on
+
+# 执行后端路由
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !\.(js|ico|gif|jpg|jpeg|png|css|xml|swf|txt|woff|ttf|eot|svg|otf|map)$
+RewriteRule ^(.*)$ index.php/$1 [L]

@@ -1,0 +1,8 @@
+storage/log*
+public/response/*
+composer.lock
+config/env.php
+vendor/*
+.DS_Store
+.idea/*
+.idea/dictionaries/simple.xml
