@@ -2,7 +2,7 @@
 
 ## 使用前必看
 
-- 该项目比不完善，建议内部使用
+- 该项目并不完善，建议内部使用
 - 你可以根据自己的需求开发定制
 
 ## 后端安装
@@ -11,6 +11,7 @@
 - cp config/env.default.php env.php
 - storage/log 需要有写权限
 - public/response/public 需要写权限
+- 数据库配置 env.php db_
 
 ## web访问
 
