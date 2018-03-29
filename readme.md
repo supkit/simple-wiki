@@ -1,4 +1,6 @@
-![avatar](public/wiki.png)
+![index](public/photo/wiki-0.png)
+![debug](public/photo/wiki-1.png)
+![wiki](public/photo/wiki-2.png)
 
 ## 使用前必看
 
